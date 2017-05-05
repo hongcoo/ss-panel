@@ -1,8 +1,7 @@
-# ss-panel
+# ss-panel-v3
 
-Let's talk about cat.  Based on [LightFish](https://github.com/Pongtan/LightFish).
+Based on [LightFish](https://github.com/Pongtan/LightFish).
 
-[Donation](https://github.com/orvice/ss-panel/wiki/Donation)
 
 [安装文档](https://sspanel.xyz/docs)
 
